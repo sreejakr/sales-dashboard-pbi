@@ -6,13 +6,6 @@ This interactive Power BI dashboard visualizes key performance indicators (KPIs)
 
 ---
 
-## 📁 Project Files
-
-- [`SalesPerformanceDashboard.pbix`](./SalesPerformanceDashboard.pbix) — Power BI Desktop report file.  
-  **Click to download and explore the full interactive dashboard.**
-
----
-
 ##  Key Features
 
 | Feature                    | Description                                                                 |
