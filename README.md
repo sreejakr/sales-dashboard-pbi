@@ -2,7 +2,7 @@
 
 This interactive Power BI dashboard visualizes key performance indicators (KPIs) for sales data across regions, time periods, and customer segments. It is designed for business decision-makers to quickly monitor revenue trends, evaluate top-performing markets and customers, and track progress toward annual sales goals.
 
-![Sales Dashboard Preview](images/sales-dashboard.png)
+![Sales Dashboard Preview](sales-dashboard.png)
 
 ---
 
